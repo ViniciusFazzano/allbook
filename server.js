@@ -367,5 +367,6 @@ https.createServer({
   cert: fs.readFileSync('server.crt')
 },
   server).listen(8000, () => {
-    console.log("API disponível em https://localhost:8000")
+    console.log("boas vindas do vinissao")
+    console.log("API atraves do vinissao seila blma em https://localhost:8000")
   })
